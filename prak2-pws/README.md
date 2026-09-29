@@ -34,3 +34,4 @@ http://localhost:3000/api/lokasi?q=Sabang
 Data mentah dari MapTiler dapat dilihat dengan menambahkan &debug=1.
 
 Screenshoot:
+![alt text](image.png)
